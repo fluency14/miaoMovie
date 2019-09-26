@@ -1,0 +1,65 @@
+{
+  "id": "1434408",
+  "name": "喵电影",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1089767",
+      "name": "三角",
+      "font_class": "sanjiao1",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "1183016",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "1206411",
+      "name": "三角",
+      "font_class": "sanjiao",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "1288599",
+      "name": "箭头",
+      "font_class": "jiantou1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "2279234",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "4770728",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "4933212",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "5383486",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
